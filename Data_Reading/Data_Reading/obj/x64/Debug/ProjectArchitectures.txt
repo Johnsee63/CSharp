@@ -1,0 +1,1 @@
+C:\Work\Source\GitHub\CSharp\Data_Reading\Data_Reading\Data_Reading.csproj;x64
