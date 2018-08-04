@@ -1,0 +1,6 @@
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\janos\Documents\GitHub\CSharp\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
