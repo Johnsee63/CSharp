@@ -1,0 +1,7 @@
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\bin\Debug\MultipleTable.exe.config
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\bin\Debug\MultipleTable.exe
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\bin\Debug\MultipleTable.pdb
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\obj\Debug\MultipleTable.csprojResolveAssemblyReference.cache
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\obj\Debug\MultipleTable.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\obj\Debug\MultipleTable.exe
+C:\Work\Source\GitHub\CSharp\MultipleTable\MultipleTable\MultipleTable\obj\Debug\MultipleTable.pdb
