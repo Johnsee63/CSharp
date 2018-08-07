@@ -1,0 +1,7 @@
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\bin\Debug\StonePaperScissors.exe.config
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\bin\Debug\StonePaperScissors.exe
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\bin\Debug\StonePaperScissors.pdb
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\obj\Debug\StonePaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\obj\Debug\StonePaperScissors.exe
+C:\Users\janos\Documents\GitHub\CSharp\StonePaperScissors\StonePaperScissors\StonePaperScissors\obj\Debug\StonePaperScissors.pdb
