@@ -1,0 +1,7 @@
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\janos\Documents\GitHub\CSharp\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
