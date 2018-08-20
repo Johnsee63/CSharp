@@ -1,0 +1,7 @@
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Work\Source\GitHub\CSharp\BubbleSort\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

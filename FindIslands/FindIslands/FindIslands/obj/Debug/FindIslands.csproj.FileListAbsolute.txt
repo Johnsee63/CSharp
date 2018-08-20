@@ -1,0 +1,7 @@
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\bin\Debug\FindIslands.exe.config
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\bin\Debug\FindIslands.exe
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\bin\Debug\FindIslands.pdb
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\obj\Debug\FindIslands.csprojResolveAssemblyReference.cache
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\obj\Debug\FindIslands.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\obj\Debug\FindIslands.exe
+C:\Work\Source\GitHub\CSharp\FindIslands\FindIslands\FindIslands\obj\Debug\FindIslands.pdb

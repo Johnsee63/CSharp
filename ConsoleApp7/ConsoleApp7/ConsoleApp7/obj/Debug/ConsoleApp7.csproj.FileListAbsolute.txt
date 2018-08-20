@@ -1,0 +1,6 @@
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Work\Source\GitHub\CSharp\ConsoleApp7\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

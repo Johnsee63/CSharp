@@ -1,0 +1,7 @@
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\bin\Debug\FindMinFindMax.exe.config
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\bin\Debug\FindMinFindMax.exe
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\bin\Debug\FindMinFindMax.pdb
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\obj\Debug\FindMinFindMax.csprojResolveAssemblyReference.cache
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\obj\Debug\FindMinFindMax.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\obj\Debug\FindMinFindMax.exe
+C:\Work\Source\GitHub\CSharp\FindMinFindMax\FindMinFindMax\FindMinFindMax\obj\Debug\FindMinFindMax.pdb

@@ -1,0 +1,7 @@
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\bin\Debug\AverageTemperature.exe.config
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\bin\Debug\AverageTemperature.exe
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\bin\Debug\AverageTemperature.pdb
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\obj\Debug\AverageTemperature.csprojResolveAssemblyReference.cache
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\obj\Debug\AverageTemperature.csproj.CoreCompileInputs.cache
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\obj\Debug\AverageTemperature.exe
+C:\Work\Source\GitHub\CSharp\AverageTemperature\AverageTemperature\AverageTemperature\obj\Debug\AverageTemperature.pdb
